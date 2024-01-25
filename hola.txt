@@ -1,0 +1,6 @@
+num = [1, 2, 3, 4]
+
+Completa el codigo para mostar la suma de los nuneros
+primeros y terceros valores en la lista.
+
+print(num[   ] +      [2])
